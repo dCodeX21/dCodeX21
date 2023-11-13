@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm dCodeX21</h1>
 
 <p align="center">
-  <a href="github.com/dCodeX21" target="blank">
-    <img align="center" src="https://komarev.com/ghpvc/?username=dcodex21&style=for-the-badge&label=PROFILE+VIEWS" alt="views count" />
-  </a>
+  <a href="https://github.com/dCodeX21" target="_blank"><img alt="Views" src="https://komarev.com/ghpvc/?username=dcodex21&style=for-the-badge&label=PROFILE+VIEWS" /></a>&ensp;&ensp;<a href="https://x.com/dCodeX21" target="_blank"><img alt="X" src="https://img.shields.io/badge/%40dcodex21-161B22?style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=%230D0D0D" /></a>&ensp;&ensp;<a href="https://t.me/dCodeX21" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/%40dcodex21-161B22?style=for-the-badge&logo=telegram&logoColor=white&label=telegram&labelColor=%2326A5E4" /></a>&ensp;&ensp;<a href="mailto:dcodex21.dev@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/dcodex21.dev-161B22?style=for-the-badge&logo=gmail&logoColor=white&label=GMAIL&labelColor=%23EA4335" /></a>
 </p>
 
 <h3 align="left">About Me</h3>
 <picture>
-  <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height=120px>
+  <img align="left" src="https://github.com/dCodeX21/dCodeX21/blob/main/coding.gif?raw=true" height=110px>
 </picture>
 <picture>
-  <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height=120px>
+  <img align="left" src="https://github.com/dCodeX21/dCodeX21/blob/main/spacer.png?raw=true" height=110px width=10px>
 </picture>
+
 <p align="left">
   
   - :computer: I’m currently working on **NFT Platform**
@@ -21,7 +20,7 @@
 
   - :thought_balloon: Ask me about **Web3/Blockchain**
 </p>
-
+<br>
 
 
 <h3 align="left">Tech & Tools</h3>
