@@ -14,9 +14,9 @@
 
 <p align="left">
   
-  - :computer: I’m currently working on **NFT Platform**
+  - :computer: I’m currently working on **Gaming Project**
 
-  - :telescope: I'm currently into **Blockchain/Web3 Development**
+  - :telescope: I'm into **Blockchain/Web3 Development**
 
   - :thought_balloon: Ask me about **Web3/Blockchain**
 </p>
